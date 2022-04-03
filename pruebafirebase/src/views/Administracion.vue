@@ -57,14 +57,14 @@
               @click="updateCourse(row.item.id)"
               class="mr-2"
             >
-              Editar
+              🖊
             </b-button>
             <b-button
               size="sm"
               @click="deleteCursoByIdDoc(row.item.id)"
               class="mr-2"
             >
-              Eliminar
+              ❌
             </b-button>
           </template>
         </b-table>
