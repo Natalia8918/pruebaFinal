@@ -1,0 +1,4 @@
+arreglados los cursos del Home de manera dinámica
+arreglado el uso de Vuex pasando codigo al store
+arreglado los nombres de archivos y eliminados los que no correspondian 
+arreglado los contadores con getters 
